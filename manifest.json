@@ -1,6 +1,6 @@
 {
-  "short_name": "MDN",
-  "name": "MDN Web Docs",
+  "short_name": "Dumb App",
+  "name": "My Dumb Application",
   "icons": [
     {
       "src": "/icon.png",
