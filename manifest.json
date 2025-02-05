@@ -1,1 +1,15 @@
-{"theme_color":"#8936FF","background_color":"#2EC6FE","orientation":"portrait","display":"standalone","dir":"auto","lang":"en-GB","name":"DumbWebsite","short_name":"DW"}
+{
+  "short_name": "MDN",
+  "name": "MDN Web Docs",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
